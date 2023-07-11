@@ -4,3 +4,4 @@
 
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10b32565-32e8-4586-bf21-e3bb7102a67f/deploy-status)](https://app.netlify.com/sites/playyourdrumkit/deploys)
